@@ -3,7 +3,7 @@
 
 ### 🌟 Features
 - **Architecture Pattern**: Utilizes the MVVM (Model-View-ViewModel) clean architecture pattern for a structured development approach.
-- **Token Management**: Reads the bearer token from encrypted SharedPreferences during runtime for secure and authenticated API calls. Utilizes 256-bit encryption for enhanced security.
+- **Token Management**: Reads the authentication from encrypted SharedPreferences during runtime for secure calls.
 - **Navigation**: Implements Jetpack Navigation for seamless navigation between fragments within the application.
 
 
