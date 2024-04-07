@@ -11,7 +11,7 @@
 
 | Onboarding   | Dashboard |
 |------------------- |--------------------------------|
-|    ![Screenshot_20240407_132535](https://github.com/Pankajlilan/CodeLand/assets/10745274/ee9359aa-6b09-4d09-a49e-1a6372c8e1a9)  |   ![Screenshot_20240407_132740 (https://github.com/Pankajlilan/CodeLand/assets/10745274/42458834-061e-4eaf-88da-1726adf7cc58)  | 
+|    ![Screenshot_20240407_132535](https://github.com/Pankajlilan/CodeLand/assets/10745274/ee9359aa-6b09-4d09-a49e-1a6372c8e1a9)  |   ![Screenshot_20240407_132740 ](https://github.com/Pankajlilan/CodeLand/assets/10745274/42458834-061e-4eaf-88da-1726adf7cc58)  | 
 
 
 ### 💻  Installing
