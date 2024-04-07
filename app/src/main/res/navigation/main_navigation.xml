@@ -30,5 +30,13 @@
             app:argType="string"
             app:nullable="true" />
 
+        <action
+            android:id="@+id/navigate_to_onboardingFragment"
+            app:destination="@id/onboardingFragment"
+            app:enterAnim="@anim/fade_in"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/fade_out"/>
+
     </fragment>
 </navigation>

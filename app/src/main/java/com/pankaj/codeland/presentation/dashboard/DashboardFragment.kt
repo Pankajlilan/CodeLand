@@ -12,6 +12,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.annotation.RequiresApi
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.findNavController
 import com.pankaj.codeland.R
 import com.pankaj.codeland.databinding.FragmentDashboardBinding
 import com.pankaj.codeland.presentation.dialog.CustomPhotoDialog
@@ -37,7 +38,7 @@ class DashboardFragment : Fragment() {
     binding.apply {
       imgBtnLogout.setOnClickListener {
         sharedPreferencesManager.clear()
-        requireActivity().supportFragmentManager.popBackStack()
+        findNavController().navigate(DashboardFragmentDirections.navigateToOnboardingFragment())
       }
       btnUpload.setOnClickListener {
         openGallery()
