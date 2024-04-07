@@ -9,13 +9,9 @@
 
 ### 🎥 Screen Shots
 
-| Dashboard   | Top Links |
+| Onboarding   | Dashboard |
 |------------------- |--------------------------------|
-| ![Screenshot_2024-01-31-14-07-12-57_326bb15694499c123ad5e3d1f275c42a](https://github.com/Pankajlilan/OpenInApp/assets/10745274/f8aada6c-4972-45df-ad8c-839720ec95c6)         |  ![Screenshot_2024-01-31-14-07-22-82_326bb15694499c123ad5e3d1f275c42a](https://github.com/Pankajlilan/OpenInApp/assets/10745274/ed7ee2ab-74a1-42b9-926d-4388206a91b7)   |
-
-| Recent Links   | Bottom  Dashboard |
-|------------------- |--------------------------------|
-|    ![Screenshot_2024-01-31-14-07-27-60_326bb15694499c123ad5e3d1f275c42a](https://github.com/Pankajlilan/OpenInApp/assets/10745274/e562b6aa-816a-4dbe-9b9a-f58c99441fa8)     |  ![Screenshot_2024-01-31-14-07-31-91_326bb15694499c123ad5e3d1f275c42a](https://github.com/Pankajlilan/OpenInApp/assets/10745274/9935d006-9a4c-4014-85c7-77448a7e9373)    |
+|    ![Screenshot_20240407_132535](https://github.com/Pankajlilan/CodeLand/assets/10745274/ee9359aa-6b09-4d09-a49e-1a6372c8e1a9)  |   ![Screenshot_20240407_132740 (https://github.com/Pankajlilan/CodeLand/assets/10745274/42458834-061e-4eaf-88da-1726adf7cc58)  | 
 
 
 ### 💻  Installing
